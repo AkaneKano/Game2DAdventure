@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: eb96c7e01499e9949bc862f1dcf54c8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3544932573768493404
+    second: Fire_Orange_0
+  - first:
+      213: -3541584456423226248
+    second: Fire_Orange_1
+  - first:
+      213: 1182236815043788313
+    second: Fire_Orange_2
+  - first:
+      213: 3695447369299211777
+    second: Fire_Orange_3
+  - first:
+      213: 5037423467598931002
+    second: Fire_Orange_4
+  - first:
+      213: 3963735329953627565
+    second: Fire_Orange_5
+  - first:
+      213: -932361932550259050
+    second: Fire_Orange_6
+  - first:
+      213: -420340563301262732
+    second: Fire_Orange_7
+  - first:
+      213: 5024101283265557698
+    second: Fire_Orange_8
+  - first:
+      213: -7977474237476073331
+    second: Fire_Orange_9
+  - first:
+      213: -134371217313131008
+    second: Fire_Orange_10
+  - first:
+      213: 4796927691962403948
+    second: Fire_Orange_11
+  - first:
+      213: 113075862485772863
+    second: Fire_Orange_12
+  - first:
+      213: 1769804510257859042
+    second: Fire_Orange_13
+  - first:
+      213: 5335786799805208659
+    second: Fire_Orange_14
+  - first:
+      213: 8129384560170871482
+    second: Fire_Orange_15
+  - first:
+      213: -1802576794696831707
+    second: Fire_Orange_16
+  - first:
+      213: -5008292430297108097
+    second: Fire_Orange_17
+  - first:
+      213: -5743661883839952124
+    second: Fire_Orange_18
+  - first:
+      213: 9158474828033256700
+    second: Fire_Orange_19
+  - first:
+      213: -2362138783589964463
+    second: Fire_Orange_20
+  - first:
+      213: -7315936597297090276
+    second: Fire_Orange_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Orange_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 170
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59ae2cd461223130800000000000000
+      internalID: 3544932573768493404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87449d473b3c9dec0800000000000000
+      internalID: -3541584456423226248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 170
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef2199e16286010800000000000000
+      internalID: 1182236815043788313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 170
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1063b359dcdd84330800000000000000
+      internalID: 3695447369299211777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 123
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34637154f588e540800000000000000
+      internalID: 5037423467598931002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad3d852844020730800000000000000
+      internalID: 3963735329953627565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 126
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ebe3023c59f03f0800000000000000
+      internalID: -932361932550259050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 120
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9db71c76aa2af0800000000000000
+      internalID: -420340563301262732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b0a09f7139b540800000000000000
+      internalID: 5024101283265557698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 48
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80986e82715a4190800000000000000
+      internalID: -7977474237476073331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 61
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006930cf61e922ef0800000000000000
+      internalID: -134371217313131008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 48
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c47a4125c129240800000000000000
+      internalID: 4796927691962403948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 55
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aa228d5e9b19100800000000000000
+      internalID: 113075862485772863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 48
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9cdc343db9f8810800000000000000
+      internalID: 1769804510257859042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 54
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589b9ff2d58c0a40800000000000000
+      internalID: 5335786799805208659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 72
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa787af2061d070800000000000000
+      internalID: 8129384560170871482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dabb7a4f5fbf6e0800000000000000
+      internalID: -1802576794696831707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71fcd8d198fe7ab0800000000000000
+      internalID: -5008292430297108097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bc4c7a2f96a40b0800000000000000
+      internalID: -5743661883839952124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 7
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc67491550791f70800000000000000
+      internalID: 9158474828033256700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15562fd9a4ff73fd0800000000000000
+      internalID: -2362138783589964463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Orange_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b3de1d62987a90800000000000000
+      internalID: -7315936597297090276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fire_Orange_0: 3544932573768493404
+      Fire_Orange_1: -3541584456423226248
+      Fire_Orange_10: -134371217313131008
+      Fire_Orange_11: 4796927691962403948
+      Fire_Orange_12: 113075862485772863
+      Fire_Orange_13: 1769804510257859042
+      Fire_Orange_14: 5335786799805208659
+      Fire_Orange_15: 8129384560170871482
+      Fire_Orange_16: -1802576794696831707
+      Fire_Orange_17: -5008292430297108097
+      Fire_Orange_18: -5743661883839952124
+      Fire_Orange_19: 9158474828033256700
+      Fire_Orange_2: 1182236815043788313
+      Fire_Orange_20: -2362138783589964463
+      Fire_Orange_21: -7315936597297090276
+      Fire_Orange_3: 3695447369299211777
+      Fire_Orange_4: 5037423467598931002
+      Fire_Orange_5: 3963735329953627565
+      Fire_Orange_6: -932361932550259050
+      Fire_Orange_7: -420340563301262732
+      Fire_Orange_8: 5024101283265557698
+      Fire_Orange_9: -7977474237476073331
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
